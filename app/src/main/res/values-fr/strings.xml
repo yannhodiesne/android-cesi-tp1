@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="login_header">Connexion</string>
+    <string name="login_hint">Identifiant</string>
+    <string name="password_hint">Mot de passe</string>
+    <string name="register_button"><u>Inscription</u></string>
+    <string name="name_hint">Nom</string>
+    <string name="register_header">Inscription</string>
+    <string name="accounts_header">Inscrits</string>
+    <string name="profile_header">Bonjour</string>
+    <string name="logout_button">Déconnexion</string>
+    <string name="login_button">Connexion</string>
+    <string name="create_account_button">Valider</string>
+    <string name="essentials_button">Aller à Android Essentials</string>
+    <string name="accounts_button">Aller à la liste des utilisateurs</string>
+</resources>
